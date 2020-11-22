@@ -8,3 +8,6 @@ https://twitter.com/Rahatcodes
 1. Chocolate Chip Cookies and Recurson
 Blog Post: https://dev.to/rahatch/chocolate-chip-cookies-and-recursion-566k
 Fleet: https://youtu.be/LVkomHIbKR0
+
+2. 3 Array methods in 30 seconds
+Fleet: https://youtu.be/CQm3pd378M0
